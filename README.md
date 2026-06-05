@@ -8,3 +8,10 @@
 </p>
 
 <br clear="left"/>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Seurat-Spatial%20Analysis-blueviolet?style=for-the-badge" alt="Seurat">
+  <img src="https://img.shields.io/badge/CellChat-Cell--Cell%20Communication-orange?style=for-the-badge" alt="CellChat">
+  <img src="https://img.shields.io/badge/Mouse-Brain-red?style=for-the-badge" alt="Mouse Brain">
+</p>
