@@ -1,8 +1,8 @@
-<p align="center">
+<p align="right">
   <img src="https://uploads-ssl.webflow.com/5f02d7013319a34e214498a6/62d62e7969615a7d137014e9_Icon%20Design-08.png" width="180" alt="Spatial Transcriptomics Logo">
 </p>
 
-<h1 align="center">
+<h1 align="left">
 Spatial Transcriptomics of Mouse Brain Using Seurat and CellChat
 </h1>
 
