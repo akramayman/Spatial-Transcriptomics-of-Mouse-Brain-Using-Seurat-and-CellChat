@@ -1,4 +1,9 @@
-## Spatial Transcriptomics of Mouse Brain Using Seurat and CellChat
+<p align="center">
+  <img src="assets/logo.png" alt="Spatial Transcriptomics Logo" width="220">
+</p>
 
-<img src="assets/logo.png" alt="Logo" width="24"> RNA-seq Analysis Toolkit
+<h1 align="center">
+Spatial Transcriptomics of Mouse Brain Using Seurat and CellChat
+</h1>
 
+<p align="center">
