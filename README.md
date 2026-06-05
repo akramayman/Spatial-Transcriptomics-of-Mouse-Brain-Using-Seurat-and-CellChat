@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   <img src="https://uploads-ssl.webflow.com/5f02d7013319a34e214498a6/62d62e7969615a7d137014e9_Icon%20Design-08.png" width="180" alt="Spatial Transcriptomics Logo">
 </p>
 
