@@ -94,4 +94,10 @@ devtools::install_github("const-ae/glmGamPoi")
 # Required for Seurat integration and nearest-neighbor search
 BiocManager::install("BiocNeighbors")
 ```
+---
 
+## Citation 
+
+If you use this repository, please cite:
+
+Akram Abushmais.
